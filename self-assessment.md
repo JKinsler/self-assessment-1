@@ -16,90 +16,90 @@ For example:
 
 ### print_indices
 
-* **Completeness:**
-* **Correctness:**
-* **Code style:**
+* **Completeness:** 5
+* **Correctness:** 5
+* **Code style:** 5
 
 
 ### words_in_common
 
-* **Completeness:**
-* **Correctness:**
-* **Code style:**
+* **Completeness:** 5
+* **Correctness:** 5
+* **Code style:** 4
 
 
 ### every_other_item
 
-* **Completeness:**
-* **Correctness:**
-* **Code style:**
+* **Completeness:** 5
+* **Correctness:** 5
+* **Code style:** 5
 
 
 ### smallest_n_items
 
-* **Completeness:**
-* **Correctness:**
-* **Code style:**
+* **Completeness:** 5
+* **Correctness:** 5
+* **Code style:** 4
 
 
 ## Skills: Functions, part 1
 
 ### A. Hometown Check
 
-* **Completeness:**
-* **Correctness:**
-* **Code style:**
+* **Completeness:** 5
+* **Correctness:** 5
+* **Code style:** 5
 
 
 ### B. Full Name Generator
 
-* **Completeness:**
-* **Correctness:**
-* **Code style:**
+* **Completeness:** 5
+* **Correctness:** 5
+* **Code style:** 5
 
 
 ### C. Hometown Greeting
 
-* **Completeness:**
-* **Correctness:**
-* **Code style:**
+* **Completeness:** 5
+* **Correctness:** 5
+* **Code style:** 4
 
 
 ## Skills: Functions, part 2
 
 ### is_berry
 
-* **Completeness:**
-* **Correctness:**
-* **Code style:**
+* **Completeness:** 5
+* **Correctness:** 4
+* **Code style:** 5
 
 
 ### shipping_cost
 
-* **Completeness:**
-* **Correctness:**
-* **Code style:**
+* **Completeness:** 5
+* **Correctness:** 5
+* **Code style:** 4
 
 
 ### calculate_price
 
-* **Completeness:**
-* **Correctness:**
-* **Code style:**
+* **Completeness:** 5
+* **Correctness:** 5
+* **Code style:** 4
 
 
 ## Skills: Functions, part 3
 
 ### A. Multiple Arguments
 
-* **Completeness:**
-* **Correctness:**
-* **Code style:**
+* **Completeness:** 5
+* **Correctness:** 4
+* **Code style:** 4
 
 
 ### B. Inner Function
 
-* **Completeness:**
-* **Correctness:**
-* **Code style:**
+* **Completeness:** 5
+* **Correctness:** 5
+* **Code style:** 5
 
